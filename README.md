@@ -10,5 +10,5 @@ Welcome to my profile! You probably won't find anything special here, but it's s
   <a href="https://github.com/vy-xa?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/vy-xa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/vy-xa/ctr">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/vy-xa-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://hamsandwich.site"/></a>
 </p>
